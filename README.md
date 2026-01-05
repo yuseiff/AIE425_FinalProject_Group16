@@ -88,7 +88,7 @@ python main.py
 |Adham Mohmed Elsaied Elwakel | 222100195|
 | Samaa Khaled Eltaky | 222100761|
 | Habiba Ahmed Abdelnapy | 222100471|
-| Youssef Husseهny | 222101943|
+| Youssef Husseiny | 222101943|
 
 ## License
 This project is submitted as part of AIE425 course requirements.
